@@ -1,6 +1,5 @@
 // Luke Stanley
 // 	Name generator
-//	copyright 2015
 
 #include <string>
 #include <fstream>

@@ -1,6 +1,4 @@
 // Luke Stanley
-// BC4000 Driver/test/util file
-// Copyright Terminus Software 2017
 
 #include <fstream>
 #include <string>
